@@ -28,7 +28,7 @@ The following is a list of the Shader Graph nodes this library currently provide
 2. Rounded (make a shape with rounded corners)
 3. Tile
 
-# General Purpose
+### General Purpose
 1. Random (provides a random value given a seed)
 2. Warp
 3. Rays
